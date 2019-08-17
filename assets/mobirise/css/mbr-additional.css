@@ -1805,7 +1805,7 @@ body {
   background-color: #ffffff;
 }
 .cid-rzeBaTKGTu .mbr-section-subtitle {
-  color: #2f2f2f;
+  color: #000000;
   text-align: center;
   font-weight: 300;
 }
@@ -1936,7 +1936,7 @@ body {
   }
 }
 .cid-rzeVZqFx2w .mbr-text {
-  color: #767676;
+  color: #545454;
 }
 .cid-rzer1CJKnl {
   padding-top: 120px;
@@ -2181,10 +2181,6 @@ body {
 .cid-rzeoYd1zT7 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rzeoYd1zT7 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rzeoYd1zT7 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rzeoYd1zT7 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rzeoYd1zT7 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2286,10 +2282,6 @@ body {
   .cid-rzeoYd1zT7 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-rzeoYd1zT7 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rzeoYd1zT7 .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-rzeoYd1zT7 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rzeoYd1zT7 .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -2385,11 +2377,11 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #ef8bc2;
+  background: #fac6a6;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #ef8bc2, #e6007e) !important;
+  background: linear-gradient(to left, #fac6a6, #9c3c10) !important;
 }
 .cid-rzex8bbbCn .mbr-gallery-item > div {
   position: relative;
@@ -2418,16 +2410,16 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #ef8bc2 !important;
+  background: #fac6a6 !important;
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #ef8bc2, #e6007e) !important;
+  background: linear-gradient(to left, #fac6a6, #9c3c10) !important;
 }
 .cid-rzf82P16OF {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #e6007e;
+  background-image: url("../../../assets/images/bronze3-246x205.jpg");
 }
 .cid-rzf82P16OF .row-links {
   width: 100%;
